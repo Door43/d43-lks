@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lks:home|Door43 (lks)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lks|d43-lks repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lks/archive/master.zip|d43-lks.zip]]
+
+**Recent Changes**
+{{changes>ns = lks}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lks|Ethnologue data]]
+
